@@ -1,1 +1,1 @@
-# bsides_mumbai_ctf_2022
+# Writeups for Boot2Root challenges in Bsides Mumbai CTF
